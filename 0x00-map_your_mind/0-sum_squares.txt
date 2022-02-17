@@ -1,0 +1,5 @@
+Read num1 , num2
+Set square_num1 to num1*num1
+Set square_num2 to num2*num2
+Set sum to square_num1 +square_num2
+Write sum
